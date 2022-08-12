@@ -9,10 +9,14 @@
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 
+
+
 **Aplicações que Estudo**
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="80" height="80"/>
            
+
+
 
 **Ferramentas de Desenvolvimento**
 
