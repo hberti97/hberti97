@@ -1,5 +1,5 @@
 
-<h3> :man: &nbsp;Olá, sou o Luiz Henrique, sou estudante de banco de dados com muita vontade de aprender mais sobre tecnologia! </h3>
+<h3> :man: &nbsp;Olá, sou o Luiz Henrique, estudante de banco de dados com muita vontade de aprender mais sobre tecnologia! </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções em analise de dados.
 - 🎓 &nbsp; Estudando Banco de Dados na <a href=https://fatecsjc-prd.azurewebsites.net>FATEC São José dos Campos Prof. Jessen Vidal</a>.
