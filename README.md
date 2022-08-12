@@ -1,5 +1,5 @@
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções em analise de dados.
 - 🎓 &nbsp; Estudando Banco de Dados na <a href=https://fatecsjc-prd.azurewebsites.net>SUA FACULDADE</a>.
