@@ -4,23 +4,19 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções em analise de dados.
 - 🎓 &nbsp; Estudando Banco de Dados na <a href=https://fatecsjc-prd.azurewebsites.net>FATEC São José dos Campos Prof. Jessen Vidal</a>.
 - 💼 &nbsp; Estou em busca da minha transição de carreira para a área de tecnologia.
-- 🌱 &nbsp; Aprendendo mais sobre SQL, Python, Java.
-
-<h3> :rocket: &nbsp;Minhas Skills: </h3>
+- 🌱 &nbsp; Aprendendo mais sobre HTML, CSS, JavaScript.
 
 
+## ⚡ Tecnologias
 
-
-**Aplicações que Estudo**
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="80" height="80"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,github"></img>
+</div>
+  
+<br>
            
 
 
-
-**Ferramentas de Desenvolvimento**
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" height="60" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="60" height="60" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="60" height="60" />
           
           
           
