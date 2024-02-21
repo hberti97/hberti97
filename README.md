@@ -4,7 +4,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções em analise de dados.
 - 🎓 &nbsp; Estudando Banco de Dados na <a href=https://fatecsjc-prd.azurewebsites.net>FATEC São José dos Campos Prof. Jessen Vidal</a>.
 - 💼 &nbsp; Estou em busca da minha transição de carreira para a área de tecnologia.
-- 🌱 &nbsp; Aprendendo mais sobre HTML, CSS, JavaScript.
+- 🌱 &nbsp; Aprendendo mais sobre HTML, CSS, JavaScript e Banco de dados.
 
 
 ## ⚡ Tecnologias
